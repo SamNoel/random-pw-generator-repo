@@ -127,5 +127,7 @@ frm_pw_customize.grid(row=1, column=1, sticky="nsew", padx=5)
 btn_generate.grid(row=3, column=0, columnspan=2, sticky="ew", padx=5)
 frm_pw_output.grid(row=4, column=0, columnspan=2, sticky="ew", padx=5)
 
+#test
+
 #run the event loop
 window.mainloop()
